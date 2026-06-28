@@ -1,37 +1,61 @@
-# Hi, I'm Ajil C 👋
+<div align="center">
 
-I'm a passionate learner currently diving into web development — building projects, sharpening my skills, and turning ideas into real things on the web.
+# Ajil C
 
----
+**Frontend Developer in Training · Building for the Web**
 
-## 🛠️ Skills & Technologies
+[![GitHub](https://img.shields.io/badge/GitHub-ajil101-181717?style=flat-square&logo=github)](https://github.com/ajil101)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
 ---
 
-## 🚀 Projects
+## About
 
-### 🌐 [Portfolio](https://github.com/ajil101/portfolio)
-My personal portfolio website — a showcase of who I am and what I build.
-
-### 📱 [Responsive Website](https://github.com/ajil101/responsive-_website)
-A fully responsive website built with HTML and CSS, designed to look great on any screen size.
+I am a self-driven web development student focused on crafting clean, responsive, and user-friendly interfaces. My current goal is to build a strong foundation in frontend technologies while developing real-world projects that solve real problems.
 
 ---
 
-## 📈 GitHub Stats
+## Technical Skills
 
-![Ajil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajil101&show_icons=true&theme=default&hide_border=true)
-
----
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-ajil101-181717?style=for-the-badge&logo=github)](https://github.com/ajil101)
+| Category | Technologies |
+|---|---|
+| Languages | HTML5, CSS3, JavaScript |
+| Practices | Responsive Design, Mobile-First Development |
+| Tools | Git, GitHub |
 
 ---
 
-*Always learning. Always building.* 🚀
+## Projects
+
+**[Portfolio](https://github.com/ajil101/portfolio)**
+Personal portfolio website showcasing my work, skills, and development journey.
+
+**[Responsive Website](https://github.com/ajil101/responsive-_website)**
+A multi-layout responsive website demonstrating adaptive design principles across devices.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajil101&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555)
+
+</div>
+
+---
+
+## Currently
+
+- Strengthening JavaScript fundamentals
+- Exploring modern CSS techniques
+- Building projects to grow my portfolio
+
+---
+
+<div align="center">
+
+*Open to collaboration and feedback — feel free to explore my repositories.*
+
+</div>
